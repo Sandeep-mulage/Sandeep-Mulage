@@ -29,6 +29,6 @@ Python | Pandas | NumPy | Scikit-learn | SQL| Ml|
 ---
 
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/sandeep-mulage-802507347">
   <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
