@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">Aspiring Data Scientist | Python Developer</h3>
+<h3 align="center">Aspiring Data Scientist </h3>
 
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 Computer Science Student
+- 🎓 Bachelor of Engineering (B.E.) in Electronics and Communication Engineering (ECE) Student
 - 💡 Interested in Machine Learning & Data Science
 - 📊 Built projects like Fake News Detection & Student Performance Prediction
 - 🚀 Currently learning Deep Learning
@@ -13,13 +13,13 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+<a href="https://linkedin.com/in/sandeep-mulage-802507347>LinkedIn</a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools:
-Python | Pandas | NumPy | Scikit-learn | SQL
+Python | Pandas | NumPy | Scikit-learn | SQL| Ml| 
 
 ---
 
@@ -27,9 +27,6 @@ Python | Pandas | NumPy | Scikit-learn | SQL
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
-
-### 🔥 Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
 
 
 <a href="https://linkedin.com/in/yourprofile">
